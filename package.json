@@ -10,6 +10,10 @@
     "dist",
     "src"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ZvonimirSun/vue3-codemirror.git"
+  },
   "scripts": {
     "dev": "vite",
     "build": "vite build",
