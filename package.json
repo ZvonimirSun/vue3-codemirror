@@ -14,6 +14,9 @@
     "type": "git",
     "url": "https://github.com/ZvonimirSun/vue3-codemirror.git"
   },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
   "scripts": {
     "dev": "vite",
     "build": "vite build",
