@@ -1,6 +1,6 @@
 {
   "name": "@zvonimirsun/vue3-codemirror",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "CodeMirror component for Vue3",
   "author": {
     "name": "ZvonimirSun",
@@ -17,8 +17,7 @@
     }
   },
   "files": [
-    "dist",
-    "src"
+    "dist"
   ],
   "repository": {
     "type": "git",

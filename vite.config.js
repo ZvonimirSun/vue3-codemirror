@@ -11,6 +11,7 @@ export default defineConfig({
     }
   },
   build: {
+    sourcemap: true,
     lib: {
       entry: resolve(__dirname, 'src/index.js'),
       name: '@zvonimirsun/vue3-codemirror'
