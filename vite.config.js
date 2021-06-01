@@ -12,17 +12,8 @@ export default defineConfig({
   },
   build: {
     lib: {
-      entry: resolve(__dirname, 'src/index.js'),
+      entry: resolve(__dirname, 'src/components/codemirror.vue'),
       name: 'vue3-codemirror'
-    },
-    rollupOptions: {
-      external: ['vue'],
-      output: {
-        exports: "named",
-        globals: {
-          vue: 'vue'
-        }
-      }
     }
   }
 })

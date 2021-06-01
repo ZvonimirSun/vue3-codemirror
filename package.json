@@ -1,7 +1,7 @@
 {
   "name": "@zvonimirsun/vue3-codemirror",
   "description": "CodeMirror component for Vue3",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "license": "MIT",
   "private": false,
   "main": "dist/vue3-codemirror.umd.js",
