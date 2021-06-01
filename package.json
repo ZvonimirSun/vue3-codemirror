@@ -1,5 +1,5 @@
 {
-  "name": "vue3-codemirror",
+  "name": "@zvonimirsun/vue3-codemirror",
   "description": "CodeMirror component for Vue3",
   "version": "0.0.1",
   "license": "MIT",
@@ -13,9 +13,6 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/ZvonimirSun/vue3-codemirror.git"
-  },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
   },
   "scripts": {
     "dev": "vite",
